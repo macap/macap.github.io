@@ -395,3 +395,4 @@ I have some ALPS switches left. What should I do with them?
 - [kbfirmware.com - qmk_firmware hex generator](https://kbfirmware.com/)
 - [keyboardtester.com](http://keyboardtester.com/)
 
+![](https://macap.ct8.pl/image.php)
