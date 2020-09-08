@@ -5,7 +5,7 @@ description: "Converting an old Apple M0115 keyboard and created 60% keyboard wi
 date:   2020-09-08 20:58:19 +0200
 category: diy
 tags: diy Arduino
-image: /assets/2020-09-08-diy-alps64/1.jpg 
+image: /assets/2020-09-08-diy-alps64/20.jpg 
 ---
 
 ![60% AEK alps64 keyboard](/assets/2020-09-08-diy-alps64/20.jpg)
