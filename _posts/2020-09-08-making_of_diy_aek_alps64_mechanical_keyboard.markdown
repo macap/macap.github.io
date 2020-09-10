@@ -78,7 +78,7 @@ I won't go into details, but basically:
 
 ![Kicad board preview](/assets/2020-09-08-diy-alps64/kicad_project.png)
 
-I didn't use Kicad before but I've managed to get familiar with it shortly. You can see a final design HERE. Ok, we have the design, so its time to ship it to production!
+I didn't use Kicad before but I've managed to get familiar with it shortly. You can see a final design (simplified [alps64](https://github.com/tmk/alps64)) [HERE](/assets/2020-09-08-diy-alps64/alps64_simp_v2.kicad_pcb). Ok, we have the design, so its time to ship it to production!
 
 ## Creating the PCB
 
