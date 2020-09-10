@@ -6,6 +6,8 @@ category: diy
 tags: diy Arduino
 ---
 
+![DIY arduino remote](/assets/2020-08-01-diy-sony-remote/diy-sony-remote.jpg)
+
 I've decided to create an IR remote for my speaker system. How hard could it be?
 
 ## Introduction
@@ -353,6 +355,8 @@ void sendCode(int code) {
 And it works!
 
 ## Summary
+
+![DIY arduino remote](/assets/2020-08-01-diy-sony-remote/diy-sony-remote-2.jpg)
 
 It was fun to find out how remotes work and actually be able to figure out codes myself. Obviously my remote itself is very crude, it could be improved by introducing some energy saving, more buttons and minimizing its size (18650 cell is quite an overkill for a remote, button cell would be better). I could also use digispark / ATTiny85 instead of Arduino nano. But as I have a working remote now, I think i'll just by a universal one with COPY feature and copy the codes to it. I could use the Arduino for something else, and wouldn't have to worry about all those improvements. It would be still cost effective as those remotes are just a few bucks.
 
