@@ -8,7 +8,7 @@ tags: diy Arduino
 image: /assets/2020-09-08-diy-alps64/20.jpg 
 ---
 
-![60% AEK alps64 keyboard](/assets/2020-09-08-diy-alps64/20.jpg)
+![60% AEK alps64 keyboard](/assets/2020-09-08-diy-alps64/floral.jpg)
 
 *Yes, this is a clickbait - keyboard for $10 but assuming you have a lot of free time and M0115 laying around to salvage the parts 😅. But still you can make your keyboard build cheaper by salvaging old keyboard and creating pcb by yourself.*
 
@@ -354,6 +354,7 @@ I had diodes already in place after testing so it was time for switches. But kee
 After fitting and soldering all the switches I've found out that I have to fix holes for 2 of them as they are misaligned too much. Fortunately, it was enough to just make other holes next to the existing ones.
 
 ![Fixed hole](/assets/2020-09-08-diy-alps64/16.jpg)
+![Drying keycaps](/assets/2020-09-08-diy-alps64/pcb.jpg)
 
 After connecting the keyboard all keypresses were recognized correctly. Great success!
 
@@ -365,6 +366,8 @@ The only thing left was to clean the keycaps, as they were sitting in the dusty 
 After making sure all keycaps are dry I mounted them on the switches. At this point, I was able to connect the keyboard and type this article (which was a pleasure). But the project didn't end just yet!
 
 ## Enclosure
+
+![60% AEK alps64 keyboard](/assets/2020-09-08-diy-alps64/20.jpg)
 
 I don't have the enclosure yet. I plan to 3d print it, but as the projects, I've found on Thingiverse take around 14 hours and 120g of filament to print I need some time to think about the design (which will be slightly different as I have to fit the Arduino board somewhere).
 
@@ -379,6 +382,7 @@ When it comes to everyday usage - at first I was afraid that I will be missing a
 I probably won't be bringing it into the office anytime as my coworkers would probably throw me away for that constant clacking noise the keyboard makes 😂
 
 I have some ALPS switches left. What should I do with them?
+
 
 ---
 
