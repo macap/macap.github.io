@@ -4,4 +4,3 @@
 
 layout: home
 ---
-![](https://macap.ct8.pl/image.php?url={{site.url}}{{page.url}})
