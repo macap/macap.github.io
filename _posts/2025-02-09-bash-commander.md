@@ -8,6 +8,8 @@ tags: linux bash-commander
 image: /assets/2025-02-09-bash-commander/screenshot.png
 ---
 
+![Screenshot of bash-commander main interface](/assets/2025-02-09-bash-commander/screenshot.png)
+
 As a developer managing a few Linux servers, including my own home server, I'm constantly SSH-ing in to perform various tasks. From system updates and service restarts to file management and monitoring, the command line is my daily bread and butter.
 
 However, like many of you, I often find myself in a situation where I need to execute a command I know I've run before, but… what _was_ that exact syntax again? Was it `systemctl restart myservice` or `sudo systemctl restart myservice`? Did I need that extra flag for `rsync` to preserve permissions?
@@ -19,8 +21,6 @@ For a while, my solution was a collection of bash scripts. I'd keep a folder ful
 I even dabbled with `whiptail`. It offered a nice-looking text-based menu, and I thought it could be the perfect solution. While visually appealing in the terminal, adding or editing entries was not user-friendly, and annotating commands with additional helpful information was just not really possible. Plus, `whiptail` isn't universally available on all platforms I use.
 
 ## Enter: Bash Command Saver - My Rust Experiment
-
-![Screenshot of bash-commander main interface](/assets/2025-02-09-bash-commander/screenshot.png)
 
 Frustrated with these limitations and wanting a more elegant solution, I decided to tackle this problem myself. And since I've been eager to dive into Rust for a while, I figured this would be a perfect, practical project to learn the ropes. And so, "bash-commander" (working title!) was born.
 
