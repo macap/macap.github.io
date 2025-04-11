@@ -2,7 +2,7 @@
 layout: post
 title: "Get phone number from active call in ios shortcuts - diy spam call detector"
 description: "iOS shortcut to extract the number calling you and checking if its spam online"
-date: 2025-04-11 20:24:00 +0100
+date: 2025-04-11 20:19:00 +0100
 category: misc
 tags: misc hacks
 image: /assets/2025-04-11-call-shortcut/hero.png
